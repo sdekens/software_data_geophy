@@ -1,1 +1,1 @@
-Rscript -e 'devtools::install_github("emanuelhuber/RGPR")'
+#Rscript -e 'devtools::install_github("emanuelhuber/RGPR")'

@@ -2,7 +2,8 @@ This is a README file for the installation of EMagPy.
 
 1. Place the Pipfile, Pipfile.lock and the download_emagpy_and_packages.sh files in a folder that will be your virtual environment.
 
-2. Execute the download_emagpy_and_packages.sh by running the command: . download_emagpy_and_packages.sh
+2. If you have the Pipfile and Pipfile.lock files:
+    - Execute the download_emagpy_and_packages.sh by running the command: . download_emagpy_and_packages.sh
 
 2bis. If you don't have the Pipfile and Pipfile.lock files:
     - Open the nano editor for the download_emagpy_and_packages.sh script: nano download_emagpy_and_packages.sh
