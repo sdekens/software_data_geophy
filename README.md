@@ -4,3 +4,4 @@ This repository contains the different files and scripts required to install the
 
 - RGPR is used to manipulate the Radar data.
 - EMagPy is used to manipulate the EM data.
+- PyGimly is used to manipulate the ERT & Sismique Refraction data.
