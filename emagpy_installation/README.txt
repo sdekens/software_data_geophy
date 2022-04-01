@@ -1,5 +1,7 @@
 This is a README file for the installation of EMagPy.
 
+/!\ You will need a SSH key linked to your Github account. If you do not know how to create a SSH key and link it to your Github account, please refer to the tutorial.
+
 1. Place the Pipfile, Pipfile.lock and the download_emagpy_and_packages.sh files in a folder that will be your virtual environment.
 
 2. If you have the Pipfile and Pipfile.lock files:
