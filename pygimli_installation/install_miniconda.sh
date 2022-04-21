@@ -3,10 +3,10 @@ sudo apt -y install libgl1-mesa-glx libegl1-mesa libxrandr2 libxrandr2 libxss1 l
 
 #TODO Compléter la commande avec le bon nom du fichier
 echo 'Installing Anaconda'
-bash Anaconda3-2021.11-Linux-x86_64.sh
+bash Miniconda3-latest-Linux-x86_64.sh
 
 
-source /home/lubuntu/anaconda3/bin/activate
+source /home/$USER/miniconda3/bin/activate
 conda init
 
 

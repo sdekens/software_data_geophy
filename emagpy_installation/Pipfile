@@ -18,6 +18,7 @@ pyvista = "*"
 pyvistaqt = "*"
 pyqt5 = "*"
 emagpy = "*"
+opencv-python = "==4.1.2.30"
 
 [requires]
 python_version = "3.8"
